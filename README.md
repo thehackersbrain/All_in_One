@@ -142,3 +142,10 @@ cat /root/root.txt | base64 -d
 cat /root/root.txt | base64 -d
 THM{uem2wigbuem2wigb68sn2j1ospi868sn2j1ospi8}
 ```
+
+## Other Ways
+- LFI Vulnerable Site
+- Crontab
+- Lxd
+- upload `shell.php` as `plugin` on wordpress
+- generate metasploit payload
